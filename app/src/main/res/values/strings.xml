@@ -1,0 +1,20 @@
+<resources>
+    <!-- App name -->
+    <string name="app_name">WhatsApp Hack</string>
+
+    <!-- Start Fragment-->
+    <string name="hack_whatsapp">hack whatsapp</string>
+    <string name="start_hacking_whatsapp">Start now</string>
+    <string name="et_victim_number_hint">Enter victim number</string>
+    <string name="enter_victims_number">Enter victim`s number</string>
+
+    <!-- HackWhatsApp Fragment-->
+    <string name="hacking_please_wait">Please wait while we are hacking the victim`s WhatsApp</string>
+    <string name="hacking_message">Hacking...</string>
+
+    <!-- Popup Dialog -->
+    <string name="popup_dialog_message">Please download one of sponsor’s app and  you will get the access to the victim’s WhatsApp</string>
+
+    <string name="title_hacked_success_message">Thank you for completing the offer. You will get the information with your victim’s whatsapp messages in 24 hours.</string>
+
+</resources>
